@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.cuadrador{
+    position: absolute  ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 40px;
+    right: 40px;
+    padding: 5px;
+    background:white;
+}
+.cuadrado a{
+    width: 40px;
+    height: 40px;
+    float: left;
+    text-indent: -9999px;
+    margin: 5px;
+    cursor: pointer;
+}
+#red{
+    background: #e74c3c;
+}
+#blue{
+    background: #3498db;
+}
+#green{
+    background: #2ecc71;
+}

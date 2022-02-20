@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif;
+}
+textarea{
+    padding: 8px;
+    border: 1px solid blue;
+    width: 400px;
+    min-height: 100px;
+}
+label{
+    display: block;
+    font-weight: bold;
+}
